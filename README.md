@@ -39,3 +39,20 @@ password: grader
 - dependent packages for project to work
 - sudo apt-get update and upgrade done to update the entire machine
 - apache
+
+## Resources used to complete project:
+- https://stackoverflow.com/questions/28213929/psql-fatal-role-does-not-exist
+- https://stackoverflow.com/questions/12720967/how-to-change-postgresql-user-password
+- https://stackoverflow.com/questions/20242434/how-to-run-python-scripts-on-a-web-servere-g-localhost
+- https://askubuntu.com/questions/629995/apache-not-able-to-restart
+- https://manpages.debian.org/jessie/apache2/a2ensite.8.en.html
+- https://stackoverflow.com/questions/21084791/flask-hello-world-using-apache-and-mod-wsgi-shows-files-in-webroot-only
+- https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps
+- https://www.digitalocean.com/community/tutorials/how-to-install-the-apache-web-server-on-ubuntu-16-04
+- https://stackoverflow.com/questions/11919391/postgresql-error-fatal-role-username-does-not-exist
+- http://docs.sqlalchemy.org/en/latest/core/engines.html#postgresql
+- https://discussions.udacity.com/t/using-postgresql-in-the-linux-final-project/271824
+- https://discussions.udacity.com/t/facebook-google-login-trouble/203645
+- https://askubuntu.com/questions/174981/how-do-i-configure-ufw-to-allow-ssh-on-another-port
+- https://stackoverflow.com/questions/27771273/ssh-connection-using-another-port-in-os-x
+- many, many more.. (I have closed many tabs..)
